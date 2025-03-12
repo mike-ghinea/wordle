@@ -31,7 +31,7 @@ The frontend is running at port 8000.
 cd ./backend
 python -m venv env # or python3
 source env/bin/activate
-pip install -r /path/to/requirements.txt # or pip3
+pip install -r requirements.txt # or pip3
 ```
 
 ### Running the backend
