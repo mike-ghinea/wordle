@@ -1,6 +1,9 @@
 # wordle
 Implementation of wordle using React/Typescript and Python/Django
 
+![image](https://github.com/user-attachments/assets/a750a33f-2269-4e7b-b674-98a2ce370c2f)
+
+
 ## Frontend
 
 The frontend is running at port 5173.
