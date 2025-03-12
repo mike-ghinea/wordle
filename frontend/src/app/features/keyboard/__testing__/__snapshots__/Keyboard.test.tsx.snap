@@ -1,0 +1,220 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Keyboard renders Keyboard correctly 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-FEMpB jlUFLC"
+    >
+      <div
+        class="sc-gjcoXW jZoyXw"
+      >
+        <button
+          aria-label="add q"
+          class="sc-dVBluf gTajsM"
+          data-key="q"
+        >
+          Q
+        </button>
+        <button
+          aria-label="add w"
+          class="sc-dVBluf gTajsM"
+          data-key="w"
+        >
+          W
+        </button>
+        <button
+          aria-label="add e"
+          class="sc-dVBluf gTajsM"
+          data-key="e"
+        >
+          E
+        </button>
+        <button
+          aria-label="add r"
+          class="sc-dVBluf gTajsM"
+          data-key="r"
+        >
+          R
+        </button>
+        <button
+          aria-label="add t"
+          class="sc-dVBluf gTajsM"
+          data-key="t"
+        >
+          T
+        </button>
+        <button
+          aria-label="add y"
+          class="sc-dVBluf gTajsM"
+          data-key="y"
+        >
+          Y
+        </button>
+        <button
+          aria-label="add u"
+          class="sc-dVBluf gTajsM"
+          data-key="u"
+        >
+          U
+        </button>
+        <button
+          aria-label="add i"
+          class="sc-dVBluf gTajsM"
+          data-key="i"
+        >
+          I
+        </button>
+        <button
+          aria-label="add o"
+          class="sc-dVBluf gTajsM"
+          data-key="o"
+        >
+          O
+        </button>
+        <button
+          aria-label="add p"
+          class="sc-dVBluf gTajsM"
+          data-key="p"
+        >
+          P
+        </button>
+      </div>
+      <div
+        class="sc-gjcoXW jZoyXw"
+      >
+        <button
+          aria-label="add a"
+          class="sc-dVBluf gTajsM"
+          data-key="a"
+        >
+          A
+        </button>
+        <button
+          aria-label="add s"
+          class="sc-dVBluf gTajsM"
+          data-key="s"
+        >
+          S
+        </button>
+        <button
+          aria-label="add d"
+          class="sc-dVBluf gTajsM"
+          data-key="d"
+        >
+          D
+        </button>
+        <button
+          aria-label="add f"
+          class="sc-dVBluf gTajsM"
+          data-key="f"
+        >
+          F
+        </button>
+        <button
+          aria-label="add g"
+          class="sc-dVBluf gTajsM"
+          data-key="g"
+        >
+          G
+        </button>
+        <button
+          aria-label="add h"
+          class="sc-dVBluf gTajsM"
+          data-key="h"
+        >
+          H
+        </button>
+        <button
+          aria-label="add j"
+          class="sc-dVBluf gTajsM"
+          data-key="j"
+        >
+          J
+        </button>
+        <button
+          aria-label="add k"
+          class="sc-dVBluf gTajsM"
+          data-key="k"
+        >
+          K
+        </button>
+        <button
+          aria-label="add l"
+          class="sc-dVBluf gTajsM"
+          data-key="l"
+        >
+          L
+        </button>
+      </div>
+      <div
+        class="sc-gjcoXW jZoyXw"
+      >
+        <button
+          aria-label="enter"
+          class="sc-dVBluf gTajsM"
+          data-key="↵"
+        >
+          ENTER
+        </button>
+        <button
+          aria-label="add z"
+          class="sc-dVBluf gTajsM"
+          data-key="z"
+        >
+          Z
+        </button>
+        <button
+          aria-label="add x"
+          class="sc-dVBluf gTajsM"
+          data-key="x"
+        >
+          X
+        </button>
+        <button
+          aria-label="add c"
+          class="sc-dVBluf gTajsM"
+          data-key="c"
+        >
+          C
+        </button>
+        <button
+          aria-label="add v"
+          class="sc-dVBluf gTajsM"
+          data-key="v"
+        >
+          V
+        </button>
+        <button
+          aria-label="add b"
+          class="sc-dVBluf gTajsM"
+          data-key="b"
+        >
+          B
+        </button>
+        <button
+          aria-label="add n"
+          class="sc-dVBluf gTajsM"
+          data-key="n"
+        >
+          N
+        </button>
+        <button
+          aria-label="add m"
+          class="sc-dVBluf gTajsM"
+          data-key="m"
+        >
+          M
+        </button>
+        <button
+          aria-label="backspace"
+          class="sc-dVBluf gTajsM"
+          data-key="←"
+        >
+          DELETE
+        </button>
+      </div>
+    </div>
+  </div>
+</body>
+`;
