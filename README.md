@@ -46,3 +46,8 @@ python manage.py runserver
 coverage run manage.py test
 coverage report
 ```
+
+## Additional Notes
+- The GET request that checks the word you inputed has the side effect of creating a word if there is none. Typically you would create the word via a daily cron job or something along those lines, but here it's done like this for simplicity
+- If you want to change the daily word, get the word id via `GET /api/words/` and then delete it via `DELETE /api/word/{id}`. A new word will be generate next time a request is made
+- The word is generate server side and it's only revealed at the end
